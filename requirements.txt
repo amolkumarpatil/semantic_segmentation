@@ -1,0 +1,8 @@
+efficientnet==1.0.0
+tensorflow
+opencv-python
+matplotlib
+pillow
+keras
+segmentation_models
+albumentations
